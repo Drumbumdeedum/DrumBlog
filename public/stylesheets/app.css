@@ -1,0 +1,19 @@
+.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin: 7.0em 30%;
+}
+
+.content, .meta, .extra {
+    margin-top: 1em;
+}
+
+button {
+    margin-top: 1em !important;
+}
+
+.meta {
+    color: rgba(133, 133, 133, .7);
+}
